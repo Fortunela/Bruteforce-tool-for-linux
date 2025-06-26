@@ -7,7 +7,7 @@ So this is the tool and to make it run on linux terminal do these steps:
 [5] Enjoouy pentesting
 
 Btw there is a precoded file where i put some users password that I thought of
-#Create your won txt file
+#Create your own txt file
 
 Like this:
 
