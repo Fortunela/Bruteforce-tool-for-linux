@@ -25,7 +25,7 @@ def ssh_brute_force(target_ip, port, username, password_file):
 def menu():
     while True:
         os.system("clear")
-        print("$user:root{fortunela}")
+        print("$user:root{user}")
         print("===PASSWORD FINDER===")
         print("<===================>")
         print("1. Brute Force")
